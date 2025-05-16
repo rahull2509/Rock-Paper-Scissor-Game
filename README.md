@@ -27,9 +27,6 @@ Challenge the computer in this fun and interactive browser-based game and see wh
 
 ---
 
-## 🗂️ Project Structure
-
-
 ## 📁 Project Structure
 
 Rock-Paper-Scissor-Game/
