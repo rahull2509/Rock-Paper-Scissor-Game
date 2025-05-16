@@ -30,12 +30,4 @@ Challenge the computer in this fun and interactive browser-based game and see wh
 ## 🗂️ Project Structure
 
 Rock-Paper-Scissor-Game/
-
-├── index.html       # Main HTML file (UI)
-├── style.css        # CSS styling
-├── script.js        # Game logic (JavaScript)
-├── images(assets)/          # Folder containing game images
-│   ├── rock.png             # Image/icon for Rock
-│   ├── paper.png            # Image/icon for Paper
-│   └── scissors.png         # Image/icon for Scissors
-└── README.md        # Project documentation
+<pre lang="md"> ## 📁 Project Structure ``` Rock-Paper-Scissor-Game/ ├── index.html # Main HTML file (UI) ├── style.css # CSS styling ├── script.js # Game logic (JavaScript) ├── images/ # Folder containing game images │ ├── rock.png # Image/icon for Rock │ ├── paper.png # Image/icon for Paper │ └── scissors.png # Image/icon for Scissors └── README.md # Project documentation ``` </pre>
